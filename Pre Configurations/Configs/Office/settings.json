@@ -1,0 +1,72 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.iconTheme": "material-icon-theme",
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+      "editor.formatOnSave": true
+    },
+    "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[scss]": {
+      "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "workbench.colorTheme": "SynthWave '84",
+    "editor.find.addExtraSpaceOnTop": false,
+    "editor.fontLigatures": true,
+    "json.schemas": [],
+    "editor.fontFamily": "Cascadia Code",
+    "editor.inlineHints.fontFamily": "'Cascadia Code', Consolas, 'Courier New', monospace",
+    "editor.fontSize": 15,
+    "launch": {
+    
+      "configurations": [],
+      "compounds": []
+    },
+    "[jsonc]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "prettier.endOfLine": "auto",
+    "prettier.singleQuote": true,
+    "prettier.arrowParens": "avoid",
+    "prettier.bracketSpacing": false,
+    "[json]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "prettier.tabWidth": 2,
+    "[git-commit]": {
+      "editor.rulers": [72],
+      "workbench.editor.restoreViewState": false
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "terminal.explorerKind": "external",
+    "cSpell.userWords": [
+      "Laravel",
+      "Pinterest",
+      "Quokka",
+      "Sendgrid",
+      "Socio",
+      "amember",
+      "creds",
+      "informations",
+      "paysys",
+      "socioboard",
+      "uuidv"
+    ],
+    "security.workspace.trust.untrustedFiles": "open",
+    "tabnine.experimentalAutoImports": true,
+    "git.autofetch": true,
+    "yaml.schemas": {
+      "file:///c%3A/Users/GLB-BAN-497/.vscode/extensions/atlassian.atlascode-2.9.1/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+    },
+    "redhat.telemetry.enabled": true,
+    "files.exclude": {
+      "**/.classpath": true,
+      "**/.project": true,
+      "**/.settings": true,
+      "**/.factorypath": true
+    }
+  }
+  
