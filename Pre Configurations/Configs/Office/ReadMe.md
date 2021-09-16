@@ -23,7 +23,7 @@
     2. Settings object
     3. ttf file for Font.
 
-### <a href="[../../../Configs/extensions-web.list](https://github.com/SURESH-BABU-G/VS_code_master-tutorial/blob/main/Content/Configs/extensions-web.list)" download="extensions.list">Extensions file</a>,  <a href="[../../../Configs/extensions-web.list](https://github.com/SURESH-BABU-G/VS_code_master-tutorial/blob/main/Content/Configs/extensions-web.list)" download="extensions.list">Settings file</a>,  <a href="[./](https://github.com/SURESH-BABU-G/VS_code_master-tutorial/blob/main/Content/Configs/extensions-web.list)" download="extensions.list">Font file</a>
+### <a href="https://github.com/SURESH-BABU-G/VScode-Configuration/blob/main/Pre%20Configurations/Configs/Office/extensions.list" download="extensions.list">Extensions file</a>,  <a href="https://github.com/SURESH-BABU-G/VScode-Configuration/blob/main/Pre%20Configurations/Configs/Office/settings.json" download="settings.json">Settings file</a>,  <a href="https://github.com/SURESH-BABU-G/VScode-Configuration/blob/main/Pre%20Configurations/Configs/Office/CascadiaCode.ttf" download="CascadiaCode.ttf">Font file</a>
 
 Or Download the current folder files or zip file
 ***
